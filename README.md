@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> চোখের তারায় আজ এ কেমন মায়া
+> বুকের ভেতর শুধু তোমার ছায়া
+> অচিন মেঘে ভাসে আমার এ মন
+> তুমি ছাড়া শূন্য লাগে এখন
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
