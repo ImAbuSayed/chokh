@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Chokh
+
+This log tracks the cryptographic history and versioning for the song **Chokh** (chokh).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T17:56:32.865356 | `v1` | `2b2f97359d0135441d95aaf13daf49111b291fa80a8e6e0f5b99de36d842c1a2` | `3563c344aabb704707e6f8cb26b9e2f8720a3c65603f3e3801de2aaa3add99b3` | `2026-05-08_chokh-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
